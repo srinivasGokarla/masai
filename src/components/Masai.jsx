@@ -119,10 +119,10 @@ export const Masai = () => {
             <div className="top-color">
             </div>
             <div className="dp">
-            <img src="https://masai-website-images.s3.ap-south-1.amazonaws.com/Downloader_1_c382f15ecf.png" alt=""/>
+            <img src="https://masai-website-images.s3.ap-south-1.amazonaws.com/Downloader_45493fc392.png" alt=""/>
             </div>
             <h3>Masai 0NE</h3>
-            <p className="practice">&lt;Learn. Practice. Grow&gt;</p>
+            <p className="practice">Fast Track Your Aspiration</p>
              <img  className="underline" src="https://www.masaischool.com/img/homepage/underline.svg" alt=""/>
             <div className="requirments">
             <div>
@@ -199,8 +199,8 @@ export const Masai = () => {
     <div className="card">
         <img src="https://masai-website-images.s3.ap-south-1.amazonaws.com/aman_fbbc8625a4.jpg" alt=""/>
         <div>
-           <p>Nrupul Dev</p>
-           <p>Co Founder & CTO</p>
+           <p>Aman Vats</p>
+           <p>Director - Curriculum</p>
            <hr/>
            <div className="ex-wrap">
             <img className="ex" src="https://masai-website-images.s3.ap-south-1.amazonaws.com/ex_exl_ab21e9bfe0.png" alt=""/>
@@ -211,8 +211,8 @@ export const Masai = () => {
     <div className="card">
         <img src="https://masai-website-images.s3.ap-south-1.amazonaws.com/Albert_28b73517f6.jpg" alt=""/>
         <div>
-           <p>Nrupul Dev</p>
-           <p>Co Founder & CTO</p>
+           <p>Albert Sebastian</p>
+           <p>Director - Curriculum</p>
            <hr/>
            <div className="ex-wrap">
             <img className="ex" src="https://masai-website-images.s3.ap-south-1.amazonaws.com/ex_realized_5d3fee2677.jpeg" alt=""/>
@@ -223,8 +223,8 @@ export const Masai = () => {
     <div className="card">
         <img src="https://masai-website-images.s3.ap-south-1.amazonaws.com/lohit_dp_98abd5839c.jpeg" alt=""/>
         <div>
-           <p>Nrupul Dev</p>
-           <p>Co Founder & CTO</p>
+           <p>Lohit Marodia</p>
+           <p>Director - Curriculum</p>
            <hr/>
            <div className="ex-wrap">
             <img className="ex" src="https://masai-website-images.s3.ap-south-1.amazonaws.com/ex_microsoft_80272817c6.png" alt=""/>
@@ -235,8 +235,8 @@ export const Masai = () => {
     <div className="card">
         <img src="https://masai-website-images.s3.ap-south-1.amazonaws.com/Ritesh_Firodiya_4_8a667ac9c8.jpg" alt=""/>
         <div>
-           <p>Nrupul Dev</p>
-           <p>Co Founder & CTO</p>
+           <p>Ritesh Firodiya</p>
+           <p>Senior Curriculum Engineer</p>
            <hr/>
            <div className="ex-wrap">
             <img className="ex" src="https://masai-website-images.s3.ap-south-1.amazonaws.com/ex_swiggy_9ca86a3f78.svg" alt=""/>
@@ -247,8 +247,8 @@ export const Masai = () => {
     <div className="card">
         <img src="https://masai-website-images.s3.ap-south-1.amazonaws.com/swanand_d399feddf5.jpeg" alt=""/>
         <div>
-           <p>Nrupul Dev</p>
-           <p>Co Founder & CTO</p>
+        <p>Swanand Kadam</p>
+           <p>Senior Curriculum Engineer</p>
            <hr/>
            <div className="ex-wrap">
             <img className="ex" src="https://masai-website-images.s3.ap-south-1.amazonaws.com/kalaam_f2ea778a36.png" alt=""/>
@@ -280,9 +280,9 @@ export const Masai = () => {
     <div className="card">
         <img src="https://masai-website-images.s3.ap-south-1.amazonaws.com/Kritika_Tripathi_716c47cbbd.jpg" alt=""/>
         <div className="student-desc">
-           <p>I got placed within 2 days after graduation! I’m happy I am part of the Masai family, not because they helped me but because of their mission to help other lost</p>
+           <p>Masai brought discipline to my life, helped me develop a coder’s mindset and increase my concentration as well as time management skills. It took me</p>
            <div className="ex-wrap">
-            <p>Aayushi Shah</p>
+            <p>Kritika Tripathi</p>
             <img className="ex" src="https://masai-website-images.s3.ap-south-1.amazonaws.com/instamojo_8763e704f7.png" alt=""/>
            </div>
            <br/>
@@ -291,9 +291,9 @@ export const Masai = () => {
     <div className="card">
         <img src="https://masai-website-images.s3.ap-south-1.amazonaws.com/Lokesh_Nimje_90cfa775e3.jpg" alt=""/>
         <div className="student-desc">
-           <p>I got placed within 2 days after graduation! I’m happy I am part of the Masai family, not because they helped me but because of their mission to help other lost</p>
+           <p>Projects are a part of journey at Masai. It gives the opportunity to work in a team, which gives a real experience of the corporate world. This helps students to</p>
            <div className="ex-wrap">
-            <p>Aayushi Shah</p>
+            <p>Lokesh Nimje</p>
             <img className="ex" src="https://masai-website-images.s3.ap-south-1.amazonaws.com/MPL_7713ca3d5b.svg" alt=""/>
            </div>
            <br/>
@@ -302,9 +302,9 @@ export const Masai = () => {
     <div className="card">
         <img src="https://masai-website-images.s3.ap-south-1.amazonaws.com/Lalitha_9c1e4f1cab.jpg" alt=""/>
         <div className="student-desc">
-           <p>I got placed within 2 days after graduation! I’m happy I am part of the Masai family, not because they helped me but because of their mission to help other lost</p>
+           <p>I left a job at Infosys to learn coding. Masai helped me get 3X more salary in a product-based company.</p>
            <div className="ex-wrap">
-            <p>Aayushi Shah</p>
+            <p>Lalitha Perumalla</p>
             <img className="ex" src="https://masai-website-images.s3.ap-south-1.amazonaws.com/Ajio_2ba59d62cb.svg" alt=""/>
            </div>
            <br/>
@@ -315,6 +315,82 @@ export const Masai = () => {
    <div className="btn-red-wrap">
     <button className="learning-btn">MORE STORIES</button>
     </div>
+</div>
+<div className="foot">
+<div>
+    
+    <p>Connect with a growing
+community of learners</p>
+   <button>Join Our Discord</button>
+</div>
+
+<hr />
+</div>
+<div className="bottom">
+    <div className='bt'>
+      
+        <img src="https://www.masaischool.com/img/navbar/logo.svg" alt=""/>
+        
+    </div>
+   
+   
+    <div>
+       
+        <img src="https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-instagram-filled.svg"/>
+        <img src="https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-facebook-filled.svg"/>
+        <img src="https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-youtube-filled.svg"/>
+        <img src="https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-twitter-filled.svg"/>
+        <img src="https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-pinterest-filled.svg"/>
+    </div>
+</div>
+
+<div className="footer1">
+
+<div>
+    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/01/nykaa-logo-freelogovectors.net_.png" alt=""/>
+    <p>Masai Alumni</p>
+    <p>Our Team</p>
+    <p>ACareers</p>
+    <p>PRESS</p>
+    <p>Referral Program</p>
+    <p>Masai Learn</p>
+    
+    
+</div>
+
+<div>
+    <p>Hire From US</p>
+    <p>Our Investors</p>
+    <p>Testimonials</p>
+    <p>Blog</p>
+    <p>Scholarship</p>
+   
+</div>
+
+<div>
+   
+    <p>About Us</p>
+    <p>FAQ</p>
+    <p>Newsroom</p>
+    <p>Contact Us</p>
+    <p>Program'd by Masai</p>
+   
+</div>
+
+<div>
+    <br/>
+    <br/>
+    <br/>
+    <h2>Get Started</h2>
+    <p>Join the Program</p>
+    <button>Get Startes</button>
+   
+</div>
+</div>
+
+<div className="end">
+    
+    <p className="re">2023 by Masai School | A Nolan Edutech Pvt Ltd Venture</p>
 </div>
          
       </div>
