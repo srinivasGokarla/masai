@@ -1,0 +1,125 @@
+.head{
+    background-color: #FEDFE5;
+    display: flex;
+    width: auto;
+    padding: 1%;
+    margin: 0 auto;
+    justify-content: center;
+}
+.head p {
+    font-size: medium;
+    font-weight: 500;
+    margin-right: 2%;
+}
+.head button{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 1%;
+    
+
+}
+
+
+.categories{
+    padding-bottom: 30px;
+    top:0;
+    position: sticky;
+    background-color:white;
+    border-bottom: 1px solid #d3cfcf;
+    display: flex;
+    z-index: 999999;
+
+    }
+   
+    .categories .container{
+    width: 73%;
+    height: 50px;
+    display: flex;
+    margin-left: 155px;
+    }
+    
+  
+    a {
+        text-decoration: none;
+      }
+      
+   
+      
+      ul {
+  background: white;
+	list-style: none;
+	margin: 0;
+	padding-left: 0;
+    margin-left: 10%;
+   
+}
+
+li {
+	color: black;
+  background: white;
+	display: block;
+	float: left;
+	padding: 1rem;
+	position: relative;
+	text-decoration: none;
+  transition-duration: 0.5;
+
+}
+  
+li a {
+  color: black;
+}
+.catLinks li:hover .dropdown{
+    display: block;
+    font-size: 18px;
+    line-height: 21px;
+    }
+
+li a:hover {
+	color: red;
+	cursor: pointer;
+}
+
+ul li ul {
+	background: white;
+    color: black;
+	visibility: hidden;
+  opacity: 0;
+  min-width: 5rem;
+	position: absolute;
+  transition: all 0.5s ease;
+  margin-top: 1rem;
+	left: 0;
+  display: none;
+}
+
+ul li:hover > ul,
+ul li ul:hover {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul li ul li {
+	clear: both;
+  width: 100%;
+}
+.btn {
+    margin-left: 50px;
+    background-color: white;
+    color: red;
+    border-radius: 10px;
+    border:1px solid red;
+    margin-top: 1%;
+    padding: 15px;
+}
+ul .btn:hover{
+    background-color: rgb(226, 162, 162);
+
+	cursor: pointer;
+}
